@@ -20,11 +20,11 @@ The goal of this project is to understand how effectively a large-scale governme
 
 ### Page 1 - Rural Development Intelligence Dashboard
 
-![alt text](MNREGA_Page1.JPG)
+(![alt text](Images/MNREGA_Page1.JPG))
 
 ### Page 2 - Program Effectiveness & Impact Assessment
 
-![alt text](MNREGA_Page2.JPG)
+(![alt text](Images/MNREGA_Page2.JPG))
 
 ---
 
